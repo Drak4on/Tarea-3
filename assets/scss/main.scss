@@ -1,0 +1,30 @@
+/**
+*** Estructura
+**/
+
+@import "layout/layout";
+
+/**
+*** Menú
+**/
+@import "layout/nav";
+
+/**
+*** Carrusel
+**/
+@import "layout/carrusel";
+
+/**
+*** Secciones
+**/
+@import "layout/section";
+
+/**
+*** Pie de página
+**/
+@import "layout/footer";
+
+
+*{
+    font-family: sans-serif;
+}
